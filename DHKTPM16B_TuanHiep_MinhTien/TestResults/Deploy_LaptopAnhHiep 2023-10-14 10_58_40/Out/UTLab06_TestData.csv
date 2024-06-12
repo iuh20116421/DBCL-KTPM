@@ -1,0 +1,6 @@
+﻿s1,s2,s3,Expected
+"","","",""
+"TruongDHCN","","IUH","TruongDHCN"
+"TruongDHCN","DH","","TruongCN"
+"TruongDHCN","II","IUH","TruongDHCN"
+"TruongDHCN","DH","IUH","TruongIUHCN"

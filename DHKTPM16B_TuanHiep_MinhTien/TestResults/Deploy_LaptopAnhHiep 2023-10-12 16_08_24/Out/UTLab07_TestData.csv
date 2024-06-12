@@ -1,0 +1,4 @@
+a[],Expected result
+[5,4],5
+[],int.MaxValue
+[9],9
